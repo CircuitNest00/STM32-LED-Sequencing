@@ -1,8 +1,5 @@
 # STM32-LED-Sequencing
 My first STM32  project – Sequential LED Chaser using STM32 NUCLEO-F401RE, 5 LEDs, and STM32CubeIDE. Implemented GPIO control to create a running LED effect using Embedded C.
-# STM32-Based Sequential LED Chaser
-
-A simple embedded systems project that demonstrates sequential LED blinking using the STM32 NUCLEO-F401RE development board. Five LEDs turn ON and OFF one after another, creating a running light effect.
 
 ## Overview
 
