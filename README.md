@@ -39,7 +39,7 @@ Five LEDs are connected to the GPIO pins of the STM32 NUCLEO-F401RE board throug
 
 ## Source Code
 
-The STM32CubeIDE project source code is included in this repository.
+The STM32CubeIDE project source code is included in this repository. [`main.c`](main.c).
 
 ## Project Photos
 
