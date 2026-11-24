@@ -43,7 +43,7 @@ The STM32CubeIDE project source code is included in this repository.
 
 ## Project Photos
 
-![STM32 Sequential LED Chaser](Images/project_photo.jpg)
+![STM32 Sequential LED Chaser](Images/sq_led.jpeg)
 
 ## Project Demonstration Video
 
